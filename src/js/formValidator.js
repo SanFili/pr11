@@ -1,5 +1,5 @@
 //валидация форм
-class FormValidator {
+export class FormValidator {
   constructor(popupElem, msg) {
     this.popupElem = popupElem;
     this.msg = msg;

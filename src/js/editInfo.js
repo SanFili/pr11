@@ -1,5 +1,5 @@
 //класс для работы с данными пользователя
-class UserInfo {
+export class UserInfo {
   constructor(form, api, userName, userAbout, userPhoto, inputName, inputAbout, popup) {
     this.form = form;
     this.api = api;

@@ -1,5 +1,5 @@
 //класс для хранения и отрисовки карточек
-class CardList {
+export class CardList {
   constructor(container, api, popup) {
     this.container = container;
     this.api = api;
