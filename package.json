@@ -1,0 +1,25 @@
+{
+  "name": "project_11",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --mode production",
+    "dev": "webpack-dev-server --mode development --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanFili/SanFili.github.io.git"
+  },
+  "author": "SanFili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanFili/SanFili.github.io/issues"
+  },
+  "homepage": "https://github.com/SanFili/SanFili.github.io#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
