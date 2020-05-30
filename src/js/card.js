@@ -1,5 +1,5 @@
 // класс, создающий карточку
-class Card {
+export class Card {
     constructor(api, myId) { 
       this.api = api;
       this.myId = myId;
