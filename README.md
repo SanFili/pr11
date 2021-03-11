@@ -1,6 +1,19 @@
 # Mesto
+________
 
-### Проектная работа 11 на курсе по веб-разработке от Яндекс.Практикум
+### [Посмотреть проект на Github Pages](https://SanFili.github.io/pr11/)
+_______________
 
-[Посмотреть проект на Github Pages](https://SanFili.github.io/pr11/)
+## Что использовалось
+Webpack
+Babel
+HtmlWebpackPlugin
+WebpackMd5Hash
+MiniCssExtractPlugin
+OptimizeCssAssetsPlugin
+____________
+
+## Команды
+npm run dev - для запуска на локальном сервере
+npm run build - для сборки проекта
 
