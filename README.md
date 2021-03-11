@@ -1,5 +1,4 @@
 # Mesto
-________
 
 ### [Посмотреть проект на Github Pages](https://SanFili.github.io/pr11/)
 _______________
