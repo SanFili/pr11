@@ -17,5 +17,5 @@ ____________
 - npm run build - сборка проекта
 
 _____
-### [Репозиторий бэкенд-части проекта](https://github.com/SanFili/pr11)
+### [Репозиторий бэкенд-части проекта](https://github.com/SanFili/YaP_project_course5)
 
