@@ -1,6 +1,6 @@
 # Mesto
 
-### [Посмотреть проект на Github Pages](https://SanFili.github.io/pr11/)
+[Этот же проект на React](https://github.com/SanFili/mesto_react)
 _______________
 
 ## Что использовалось
